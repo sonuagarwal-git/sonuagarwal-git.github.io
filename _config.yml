@@ -16,7 +16,7 @@ timezone: Europe/Copenhagen
 
 title: Sonu Agarwal # the main title
 
-tagline: It Architect | Nutanix | VMware | Storage | Backup | AI # it will display as the subtitle
+tagline: It Architect | Nutanix | VMware | Storage | Backup | AI | Cloud # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
      Technical blog covering Nutanix, VMware, Commvault, Storage
